@@ -1,4 +1,4 @@
-# Simple Bootloader Project
+# Simple Bootloader Emulation
 
 ## Overview
 
