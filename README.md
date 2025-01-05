@@ -1,4 +1,4 @@
-# Simple Bootloader Emulation
+# Simple X86 Bootloader Emulation
 
 ## Overview
 
